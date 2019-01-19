@@ -1,1 +1,26 @@
-﻿  Project2.vcxproj -> C:\visualprojects\Project2\Debug\Project2.exe
+﻿  stage.cpp
+c:\visualprojects\project2\stage.cpp(332): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(336): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(373): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(378): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(421): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(430): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(456): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(457): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(524): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(562): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(595): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(617): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(626): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(630): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(640): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(650): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(772): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(773): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(774): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(775): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(826): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(827): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(875): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\visualprojects\project2\stage.cpp(891): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Project2.vcxproj -> C:\visualprojects\Project2\Debug\Project2.exe
